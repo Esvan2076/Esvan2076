@@ -3,7 +3,7 @@
   <sup>&nbsp;</sup> <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=60A5FA&center=true&vCenter=true&width=760&lines=Hey+there!+I'm+Fernando+Esteban;" alt="Nombre" />
     <br><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1400&color=E2E8F0&center=true&vCenter=true&width=760&lines=B.S.+in+Computer+Engineering+at+Tec+de+Monterrey;Software+Dev+with+1%2B+year+in+Fintech;" alt="Educación" />
-    <br><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=900&color=94A3B8&center=true&vCenter=true&width=760&lines=Java+%7C+Spring+Boot+%7C+PostgreSQL+%7C+AWS;Angular+%7C+Tailwind+%7C+Arch+Linux+(I+use+Arch+btw);" alt="Stack" />
+    <br><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=900&color=94A3B8&center=true&vCenter=true&width=760&lines=Java+%7C+Spring+Boot+%7C+PostgreSQL+%7C+AWS;Angular+%7C+Tailwind+%7C+Linux+(I+use+Arch+btw);" alt="Stack" />
   </p>
    </blockquote>
 </div>
@@ -23,14 +23,6 @@
   <img src="https://img.shields.io/badge/AWS-E86820?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-</p>
-
-<p align="center">
-  <a href="#what-i-do">What I Do</a> •
-  <a href="#tech-stack">Tech Stack</a> •
-  <a href="#professional-experience">Experience</a> •
-  <a href="#selected-projects">Projects</a> •
-  <a href="#contact">Contact</a>
 </p>
 
 ## What I Do
@@ -80,13 +72,6 @@ Spring Boot • Angular • AWS
 - Deployed Angular app using Amplify/S3
 - Coordinated routing, authentication and backend integration
 
-### BiblioGestor — Library Management System
-
-PHP • SQL
-
-- Designed schema and implemented CRUD flows
-- Built web UI for administrative tasks
-
 ## Hackathons
 
 **2nd Place — I-Open Hackathon**  
@@ -95,21 +80,7 @@ Built a Fiscal Status Check prototype with defined API integration and security 
 **3rd Place — AztroHackathon**  
 Blockchain-based prototype for tamper-evident validation systems.
 
-## Leadership
-
-- Programming instructor at LIN Laboratory
-- 2+ years mentoring software development students at CETI
-
-## Currently Focused On
-
-- Backend architecture patterns
-- Cloud infrastructure optimization
-- Clean code and maintainable systems
-- Scalable database design
-
 ## Contact
-
-LinkedIn: linkedin.com/in/esvan1
 
 - Email: **[fesnandez76@gmail.com](mailto:fesnandez76@gmail.com)**
 - LinkedIn: **[linkedin.com/in/esvan1](https://www.linkedin.com/in/esvan1)**
